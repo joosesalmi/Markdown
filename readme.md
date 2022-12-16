@@ -1,4 +1,4 @@
-![alt] (/github.jpg)
+![alt](/github.jpg)
 
 Git työhakemiston kytkeminen GitHub ympäristöön.
 ----
